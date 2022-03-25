@@ -6611,7 +6611,7 @@
         "http://yunapp-ftp.cdn.bcebos.com/booster/screenshot/com.nintendo.znca/com.nintendo.znca_3.png",
         "http://yunapp-ftp.cdn.bcebos.com/booster/screenshot/com.nintendo.znca/com.nintendo.znca_4.png"
       ],
-     
+      "booster_self": "flase",
       "translate": "true",
       "screenshotLandscape": "false",
       "adbText": "",
@@ -6911,7 +6911,7 @@
         "http://yunapp-ftp.cdn.bcebos.com/booster/screenshot/com.nintendo.zaba/com.nintendo.zaba_3.png",
         "http://yunapp-ftp.cdn.bcebos.com/booster/screenshot/com.nintendo.zaba/com.nintendo.zaba_4.png"
       ],
-     
+      "booster_self": "flase",
       "translate": "false",
       "screenshotLandscape": "false",
       "adbText": "",
@@ -7513,7 +7513,7 @@
         "http://yunapp-ftp.cdn.bcebos.com/booster/screenshot/com.nintendo.znma/com.nintendo.znma_3.png",
         "http://yunapp-ftp.cdn.bcebos.com/booster/screenshot/com.nintendo.znma/com.nintendo.znma_4.png"
       ],
-     
+      "booster_self": "flase",
       "translate": "true",
       "screenshotLandscape": "false",
       "adbText": "",
